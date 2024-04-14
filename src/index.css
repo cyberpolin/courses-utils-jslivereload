@@ -1,0 +1,15 @@
+/* Path: src/index.js */
+body {
+    background: linear-gradient(45deg, #000000, #111111);
+    color: #F0DB4F;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+}
+a {
+    color: #F0DB4F;
+    transition: color 0.3s;
+}
+a:hover {
+    color: #FBAD18;
+}
+
