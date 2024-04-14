@@ -1,6 +1,6 @@
 # Cyberpolin's local dev package
 
-This package can be used for local html development, but primarely was made for the **Learn Javascript The Right Way** course [Learn Javascript the right way](!https://cyberpolin.com/courses/learn-javascript-right-way).
+This package can be used for local html development, but primarely was made for the **Learn Javascript The Right Way** course [Learn Javascript the right way](https://cyberpolin.com/courses/learn-javascript-right-way).
 
 ## How to use...
 
